@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Instrumentos>    
+	<clasificacion>
+        <tipo id="aire">
+            <nombretipo>Aerófonos</nombretipo>
+            <definicion>El sonido se produce al hacer vibrar una columna de aire</definicion>
+            <formaoejem idtipo="boc">Boquilla o empuñadura</formaoejem>
+            <formaoejem idtipo="bis">Bisel</formaoejem>
+            <formaoejem idtipo="len_S">Lengüeta Simple</formaoejem>
+            <formaoejem idtipo="len_D">Lengüeta doble</formaoejem>
+            <formaoejem idtipo="len_L">Lengüeta libre</formaoejem>
+            <formaoejem idtipo="Mix">Mixta</formaoejem>
+        </tipo>
+    </clasificacion>
+</Instrumentos>
+        

@@ -66,4 +66,312 @@
             </interprete>
         </interpretes>    
     </instrumento>
+
+
+<!--2-->
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>trompa</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/French_horn_front.png/200px-French_horn_front.png</urlinstrumento>
+        <historia>Las trompas antiguas eran más sencillas que las actuales. Estas trompas antiguas eran hechas de tubos de metal y tenían una abertura "estallada" (pabellón o campana). Eran originalmente usadas en la cacería, a menudo montando a caballo. El cambio de tono era efectuado enteramente por los labios. Hasta el siglo XIX no iban equipadas con válvulas.</historia>
+        <otrosinstrumentos>Bombardino</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Dennis</nombre>
+               <apellidos>Brain</apellidos>
+	           <pais>Inglaterra</pais>
+	           <url>https://s3-us-west-2.amazonaws.com/find-a-grave-prod/photos/2011/243/9404_131488512944.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre> Herbert von Karajan</nombre>
+               <apellidos>Von Karajan</apellidos>    
+	           <pais>Austria</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/4/40/Bundesarchiv_Bild_183-S47421%2C_Herbert_von_Karajan.jpg</url>
+            </interprete>
+        </interpretes>
+    </instrumento>
+
+<!--3-->
+   <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Trompeta</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/9/9d/Trumpet_1.jpg</urlinstrumento>
+        <historia>La historia de la trompeta se remonta a los orígenes de la historia de la humanidad. Casi tan antiguas como la flauta, que se repunta como el instrumento más antiguo y generalizado, debieron ser la trompeta y la corneta, derivadas del cuerno de buey que aún puede servir como trompa de caza. Por tanto, las primeras trompetas fueron fabricadas con cuernos de animales cocidos, cañas de bambú, tubos vegetales ahuecados o conchas de moluscos y eran empleadas por los hombres primitivos para diversas cuestiones como eran los entierros, rituales para ahuyentar a los malos espíritus, para la caza o transmitir señales.</historia>
+        <otrosinstrumentos>fliscorno</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Miles</nombre>
+               <apellidos>Davis</apellidos>
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/f/fa/Miles_Davis_by_Palumbo.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>John</nombre>
+               <apellidos>Birks Gillespie</apellidos>
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dizzy_Gillespie01.JPG/1024px-Dizzy_Gillespie01.JPG</url>
+            </interprete>
+       </interpretes>    
+    </instrumento>
+
+<!--4-->
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Trombón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/1/11/Posaune.gif</urlinstrumento>
+        <historia>La mayoría de la música compuesta para trombón se ha producido entre 1940 (fecha en que se escribió la Balada de Martin) y nuestros días. Se podría afirmar que el renacimiento del trombón comenzó en los Estados Unidos a comienzos del siglo XX. El trombonista de jazz Jack Teagarden y el súper-virtuoso Arthur Pryor, cada uno en su tipo de música, llevaron el trombón a unos límites antes no conseguidos.</historia>
+        <otrosinstrumentos>Sacabuche</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Eddie</nombre>
+               <apellidos>Bert</apellidos>
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eddie_Bert.jpg/220px-Eddie_Bert.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>John A.</nombre>
+               <apellidos>Jaki Byard</apellidos>
+	           <pais>Estados Unidos</pais>
+	           <url>http://www.jazzhistorydatabase.com/files/scans/byard/fs/Jaki%20Barney.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+
+<!--5-->
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Helicón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Helikon-Stowasser-Graz.jpg/800px-Helikon-Stowasser-Graz.jpg</urlinstrumento>
+        <historia>Este instrumento es muy popular en Europa central y oriental y es una opción para fanfarrias militares. Su tesitura se sitúa dos octavas por debajo de la de un corneta</historia>
+        <otrosinstrumentos >Sousafón</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Guardia</nombre>
+               <apellidos>Republicana de Francia</apellidos>    
+               <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/French_Republican_Guard_cavalry_fanfare_DSC03125.JPG/1024px-French_Republican_Guard_cavalry_fanfare_DSC03125.JPG</url>
+            </interprete>
+            <interprete>
+	           <nombre>Guardia</nombre>
+               <apellidos>Republicana de Francia</apellidos>
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/French_Republican_Guard_cavalry_fanfare_DSC03125.JPG/1024px-French_Republican_Guard_cavalry_fanfare_DSC03125.JPG</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--6-->    
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Bombardino</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/f/f1/Euphonium_Boosey_and_hawkes.jpg</urlinstrumento>
+        <historia>El ancestro del bombardino es el oficleido y últimamente hacia atrás, está el serpentón. La búsqueda de un instrumento de viento satisfactoriamente funcional que pudiera apoyar las masas de sonido tomó un poco de tiempo; mientras que el serpentón era usado por dos siglos, al final del Renacimiento, era notoriamente difícil mantener su afinación y calidad de sonido. El oficleido, que era usado en bandas y orquestas por unas cuantas décadas, usaba un sistema de llaves que lo hacían un paso adelante del serpentón pero no era bueno en el registro agudo.</historia>
+        <otrosinstrumentos>Tuba Wagner</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>DR BRIAN</nombre>
+               <apellidos>BAWMAN</apellidos>
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/en/3/3c/Bowman1.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>STEVEN</nombre>
+               <apellidos>MEAD</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nuotauka.jpg/800px-Nuotauka.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--7-->    
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Corneta</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/6/6d/Cornet2.png</urlinstrumento>
+        <historia>La corneta es un instrumento musical que proviene de la familia viento-metal, se caracteriza por ser un tubo metálico que tiene forma recta u ovalada con una boquilla muy parecida a un embudo y con un toque final semejante a un cono, aunque existen datos de que fue fabricado con diversos materiales. Tras varios estudios se registró que en la Europa medieval, la corneta fue desplazada por una variación más corta, allá por el año 1300. En el siguiente siglo este peculiar  instrumento se plegó en forma de “S” y en el siglo 1500 fue adherido a un bucle alargado.</historia>
+        <otrosinstrumentos>Trompeta, Trompeta pocket, Trompeta piccolo, Fliscorno</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Herbert L.</nombre>
+               <apellidos>Clarke</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/1/17/Herbertlclarke.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Nathaniel</nombre>
+               <apellidos>Adderley</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/19930225_nat_adderley_braunschweig_museum.jpg/245px-19930225_nat_adderley_braunschweig_museum.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--8-->    
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Serpentón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/f/f9/Szerpent.jpg</urlinstrumento>
+        <historia>En las memorias de Jean Lebeuf se afirma que este instrumento fue inventado por el canónigo Edmé Guillaume en 1590 en Auxerre (Francia), y fue utilizado inicialmente para acompañar los coros en los oficios religiosos. De esta manera, el serpentón reemplazaba el órgano en las iglesias donde no había uno. Hasta el siglo XIX se destinó a la música religiosa, cuando fue reemplazado poco a poco por otros instrumentos musicales.</historia>
+        <otrosinstrumentos>Cornetto, Figle, Trompeta, Tuba</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Edmé</nombre>
+               <apellidos>Guillaume</apellidos>
+	           <pais>Británico</pais>
+	           <url>http://upload.wikimedia.org/wikipedia/commons/a/a1/Ingres_portrait_Edme_Bochet.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Haendel</nombre>
+               <apellidos>Trosky</apellidos>    
+	           <pais>Alemania</pais>
+	           <url>http://www.biografiasyvidas.com/biografia/h/fotos/haendel.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--9-->    
+    <instrumento id="aire" idtipo="bis">
+        <nombreinstrumento>Flauta</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/c/c7/Western_concert_flute.jpg</urlinstrumento>
+        <historia>La flauta es el instrumento más antiguo que se conoce. De hecho, el instrumento musical más antiguo descubierto hasta ahora es una flauta de hueso con aproximadamente 43 000 años de antigüedad, encontrado en una cueva en el sur de Alemania. En el antiguo imperio chino existían algunos tipos de flautas: las flautas de Pau (si-siao), las flautas de bambú con orificios (siau) y unas flautas traveseras (chou).</historia>
+        <otrosinstrumentos>Flauta de émbolo, Flauta travesera,Flautín</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Marcel</nombre>
+               <apellidos>Moyse</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVnIFWyOdK__DHp63gVxJOJFCd7FrZzns9tJKshPRcXTmg96uuxZ0wxw</url>
+            </interprete>
+            <interprete>
+	           <nombre>Jean</nombre>
+               <apellidos>Pierre Rampal</apellidos>
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jean_Pierre_Rampal.jpg/800px-Jean_Pierre_Rampal.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--10-->      
+    <instrumento id="aire" idtipo="bis">
+        <nombreinstrumento>Piccolo</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/8/8c/Trumpet_piccolo.jpg</urlinstrumento>
+        <historia>Su utilización en el terreno de bansa militares se mantuvo después de que se incorporara a la orquesta sinfónica. De hecho, aún hoy goza de una destacada presencia en las bandas de la mayoría de regimientos. Durante el siglo XVIII formaba parte de las numerosas bandas militares de origen turco que estaban muy de moda en Europa.</historia>
+        <otrosinstrumentos>Flauta contrabajo, Flauta subcontrabajo, Bansuri, Flauta dulce, Zampoña</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Eddy</nombre>
+               <apellidos>Mitchell</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/0/0c/Eddy_Mitchell_avp_2014_2.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Georges</nombre>
+               <apellidos>Brassens</apellidos>
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brassens_TNP_1966.jpg/800px-Brassens_TNP_1966.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--11-->    
+    <instrumento id="aire" idtipo="len_S">
+        <nombreinstrumento>clarinete</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/0/01/Clarinet.jpg</urlinstrumento>
+        <historia>El clarinete procede de un instrumento muy antiguo. Hay constancia de que existía en el medio oriente (véase el Zummarah o el Arghul) y que se fabricaban instrumentos primitivos y pastoriles que serían los ancestros del clarinete, haciendo un corte, para la boquilla en un palo de caña o bambú y añadiendo unos agujeros más abajo para cambiar las notas. En Europa se creó un instrumento todavía muy simple, el chalumeau, que llegó a ser popular en Francia en los siglos XV y XVI y que constaba de 7 agujeros. Entre finales del siglo XVII y comienzos del XVIII, el chalumeau fue modificado para que una de las llaves, hasta entonces usada para añadir notas extras al registro de fundamentales, </historia>
+        <otrosinstrumentos>Clarinete piccolo, Clarinete alto, Clarinete contrabajo, Clarinete bajo</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Robert</nombre>
+               <apellidos>Schumann</apellidos>
+	           <pais>Alemania</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/7/78/Schumann-photo1850.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Darius</nombre>
+               <apellidos>Milhaud</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/3/39/Milhaud_Darius_1926.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--12-->    
+    <instrumento id="aire" idtipo="len_S">
+        <nombreinstrumento>Saxofón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Saxophone_alto.jpg/320px-Saxophone_alto.jpg</urlinstrumento>
+        <historia>Adolphe Sax era un fabricante de instrumentos, flautista y clarinetista nacido en Dinant (Bélgica) que trabajaba en París. Mientras estaba trabajando en la tienda de instrumentos de su padre en Bruselas, Sax comenzó a desarrollar un instrumento que tenía la proyección de un instrumento de viento-metal con la movilidad de un instrumento de viento-madera. Otra prioridad era crear un instrumento que, aunque similar al clarinete, pero transitado una octava, a diferencia del clarinete, que eleva su altura doce tonos cuando transita. Un instrumento que transita una octava tendría idéntica digitación para ambos registros. Esto también permite a los saxofonistas hacer un mejor uso de los sobretonos.</historia>
+        <otrosinstrumentos>Saxofón soprillo, saxofón sopranino</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Marcel</nombre>
+               <apellidos>Mule</apellidos>    
+	           <pais>Frances</pais>
+	           <url>http://www.sax-delangle.com/wp-content/images/articles_tribute-marcel-mule.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Sigurd</nombre>
+               <apellidos>Rascher</apellidos>    
+	           <pais>Aleman</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/en/2/28/Sigurd_Rascher.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--13-->
+     <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Oboe</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Oboe_modern.jpg/1024px-Oboe_modern.jpg</urlinstrumento>
+        <historia>Alrededor del siglo V, los instrumentos de doble lengüeta desaparecieron en favor de otros aerófonos, volviendo a reaparecer a partir del siglo XI en Europa y Oriente con gran intensidad. Fue en China donde se conoció con el nombre de suona o guan; en Japón, hichiriki; en la India, sahnai o nagasvaram; en Turquía, zurna; en África Occidental.</historia>
+        <otrosinstrumentos>Oboe pícolo, oboe de amor, corno inglés, oboe de caza</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>FranÇois</nombre>
+               <apellidos>Leleux</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://kulturkompasset.com/wp-content/uploads/2013/01/francois-leleux.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Heinz</nombre>
+               <apellidos>Holliger</apellidos>    
+	           <pais>Suiza</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/6/6f/Heinzholliger.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--14-->
+    <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Fagot</nombreinstrumento>
+        <urlinstrumento>http://www.el-atril.com/orquesta/Instrumentos/imagenes/fagot3.gif</urlinstrumento>
+        <historia>El fagot, que recibió en algún momento en España la designación de bajón, vivió su expansión en los siglos XVII y XVIII, y, aunque al principio sus funciones las ejerció mayoritariamente dentro de la música eclesiástica, reforzando las voces de los cantores, su presencia en el arte secular arreciaría con el tiempo.</historia>
+        <otrosinstrumentos>Fagotino, Contrafagot, Bajón</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Hugo</nombre>
+               <apellidos>Burghauser</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtzNMuHIhSLsoymb94L0RWg1-47HiwXqPhv1KIEKPGdBN788Q2RLsDlW4</url>
+            </interprete>
+            <interprete>
+	           <nombre>Antoine</nombre>
+               <apellidos>Dard</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvXkO2YSgEGgjLpCUq1TuEnGK9-MbPcS325dnKwIFioLo8p4m2_0qgQ1s</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--15-->    
+    <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Contrafagot</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Contrabassoon2.jpg/320px-Contrabassoon2.jpg</urlinstrumento>
+        <historia>El instrumento como tal surgió durante el siglo XVIII, después de que cien años antes la evolución del dulcián diera lugar al Fagot moderno. En una época en la que toda familia instrumental se dotaba de prototipos que cubrían los diferentes registros, el fagot hizo lo propio con la adopción del modelo contrabajo.</historia>
+        <otrosinstrumentos>Fagot</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Carl</nombre>
+               <apellidos>Almenräder</apellidos>    
+	           <pais>Alemania</pais>
+	           <url>http://4.bp.blogspot.com/-UFf8P3k8HZU/VFkiR6YV1zI/AAAAAAAAAJY/pMTPaGSCE5k/s1600/fagot4.png</url>
+            </interprete>
+            <interprete>
+	           <nombre>Leonard</nombre>
+               <apellidos>Sharrow</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>http://www.manchestersymphonyorchestra.com/concerts/guests/lsharrow.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
 </Instrumentos>

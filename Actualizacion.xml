@@ -266,3 +266,914 @@
             </interprete>
         </interpretes>    
     </instrumento>
+    
+<!--10-->      
+    <instrumento id="aire" idtipo="bis">
+        <nombreinstrumento>Piccolo</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/8/8c/Trumpet_piccolo.jpg</urlinstrumento>
+        <historia>Su utilización en el terreno de bansa militares se mantuvo después de que se incorporara a la orquesta sinfónica. De hecho, aún hoy goza de una destacada presencia en las bandas de la mayoría de regimientos. Durante el siglo XVIII formaba parte de las numerosas bandas militares de origen turco que estaban muy de moda en Europa.</historia>
+        <otrosinstrumentos>Flauta contrabajo, Flauta subcontrabajo, Bansuri, Flauta dulce, Zampoña</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Eddy</nombre>
+               <apellidos>Mitchell</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/0/0c/Eddy_Mitchell_avp_2014_2.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Georges</nombre>
+               <apellidos>Brassens</apellidos>
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brassens_TNP_1966.jpg/800px-Brassens_TNP_1966.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--11-->    
+    <instrumento id="aire" idtipo="len_S">
+        <nombreinstrumento>clarinete</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/0/01/Clarinet.jpg</urlinstrumento>
+        <historia>El clarinete procede de un instrumento muy antiguo. Hay constancia de que existía en el medio oriente (véase el Zummarah o el Arghul) y que se fabricaban instrumentos primitivos y pastoriles que serían los ancestros del clarinete, haciendo un corte, para la boquilla en un palo de caña o bambú y añadiendo unos agujeros más abajo para cambiar las notas. En Europa se creó un instrumento todavía muy simple, el chalumeau, que llegó a ser popular en Francia en los siglos XV y XVI y que constaba de 7 agujeros. Entre finales del siglo XVII y comienzos del XVIII, el chalumeau fue modificado para que una de las llaves, hasta entonces usada para añadir notas extras al registro de fundamentales, </historia>
+        <otrosinstrumentos>Clarinete piccolo, Clarinete alto, Clarinete contrabajo, Clarinete bajo</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Robert</nombre>
+               <apellidos>Schumann</apellidos>
+	           <pais>Alemania</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/7/78/Schumann-photo1850.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Darius</nombre>
+               <apellidos>Milhaud</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/3/39/Milhaud_Darius_1926.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--12-->    
+    <instrumento id="aire" idtipo="len_S">
+        <nombreinstrumento>Saxofón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Saxophone_alto.jpg/320px-Saxophone_alto.jpg</urlinstrumento>
+        <historia>Adolphe Sax era un fabricante de instrumentos, flautista y clarinetista nacido en Dinant (Bélgica) que trabajaba en París. Mientras estaba trabajando en la tienda de instrumentos de su padre en Bruselas, Sax comenzó a desarrollar un instrumento que tenía la proyección de un instrumento de viento-metal con la movilidad de un instrumento de viento-madera. Otra prioridad era crear un instrumento que, aunque similar al clarinete, pero transitado una octava, a diferencia del clarinete, que eleva su altura doce tonos cuando transita. Un instrumento que transita una octava tendría idéntica digitación para ambos registros. Esto también permite a los saxofonistas hacer un mejor uso de los sobretonos.</historia>
+        <otrosinstrumentos>Saxofón soprillo, saxofón sopranino</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Marcel</nombre>
+               <apellidos>Mule</apellidos>    
+	           <pais>Frances</pais>
+	           <url>http://www.sax-delangle.com/wp-content/images/articles_tribute-marcel-mule.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Sigurd</nombre>
+               <apellidos>Rascher</apellidos>    
+	           <pais>Aleman</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/en/2/28/Sigurd_Rascher.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--13-->
+     <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Oboe</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Oboe_modern.jpg/1024px-Oboe_modern.jpg</urlinstrumento>
+        <historia>Alrededor del siglo V, los instrumentos de doble lengüeta desaparecieron en favor de otros aerófonos, volviendo a reaparecer a partir del siglo XI en Europa y Oriente con gran intensidad. Fue en China donde se conoció con el nombre de suona o guan; en Japón, hichiriki; en la India, sahnai o nagasvaram; en Turquía, zurna; en África Occidental.</historia>
+        <otrosinstrumentos>Oboe pícolo, oboe de amor, corno inglés, oboe de caza</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>FranÇois</nombre>
+               <apellidos>Leleux</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://kulturkompasset.com/wp-content/uploads/2013/01/francois-leleux.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Heinz</nombre>
+               <apellidos>Holliger</apellidos>    
+	           <pais>Suiza</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/6/6f/Heinzholliger.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--14-->
+    <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Fagot</nombreinstrumento>
+        <urlinstrumento>http://www.el-atril.com/orquesta/Instrumentos/imagenes/fagot3.gif</urlinstrumento>
+        <historia>El fagot, que recibió en algún momento en España la designación de bajón, vivió su expansión en los siglos XVII y XVIII, y, aunque al principio sus funciones las ejerció mayoritariamente dentro de la música eclesiástica, reforzando las voces de los cantores, su presencia en el arte secular arreciaría con el tiempo.</historia>
+        <otrosinstrumentos>Fagotino, Contrafagot, Bajón</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Hugo</nombre>
+               <apellidos>Burghauser</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtzNMuHIhSLsoymb94L0RWg1-47HiwXqPhv1KIEKPGdBN788Q2RLsDlW4</url>
+            </interprete>
+            <interprete>
+	           <nombre>Antoine</nombre>
+               <apellidos>Dard</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvXkO2YSgEGgjLpCUq1TuEnGK9-MbPcS325dnKwIFioLo8p4m2_0qgQ1s</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--15-->    
+    <instrumento id="aire" idtipo="len_D">
+        <nombreinstrumento>Contrafagot</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Contrabassoon2.jpg/320px-Contrabassoon2.jpg</urlinstrumento>
+        <historia>El instrumento como tal surgió durante el siglo XVIII, después de que cien años antes la evolución del dulcián diera lugar al Fagot moderno. En una época en la que toda familia instrumental se dotaba de prototipos que cubrían los diferentes registros, el fagot hizo lo propio con la adopción del modelo contrabajo.</historia>
+        <otrosinstrumentos>Fagot</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Carl</nombre>
+               <apellidos>Almenräder</apellidos>    
+	           <pais>Alemania</pais>
+	           <url>http://4.bp.blogspot.com/-UFf8P3k8HZU/VFkiR6YV1zI/AAAAAAAAAJY/pMTPaGSCE5k/s1600/fagot4.png</url>
+            </interprete>
+            <interprete>
+	           <nombre>Leonard</nombre>
+               <apellidos>Sharrow</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>http://www.manchestersymphonyorchestra.com/concerts/guests/lsharrow.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--16-->    
+    <instrumento id="aire" idtipo="len_L">
+        <nombreinstrumento>Armónica</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/16-hole_chrom_10-hole_diatonic.jpg/800px-16-hole_chrom_10-hole_diatonic.jpg</urlinstrumento>
+        <historia>En 1821, un relojero alemán de 16 años llamado Christian Friedrich Ludwig Buschmann inventó una especie de armónica de boca, al unir quince lengüetas de tubo (usadas para la afinación de los órganos). Dio a este instrumento el nombre de Mund-eoline («arpa de boca»).
+        La idea fue inmediatamente recogida por otro relojero alemán, su tocayo Christian Messner.
+        En 1822, Christian Buschmann le agregó a su armónica un fuelle de cuero vertical, para tener las manos libres para su trabajo. Un constructor de instrumentos musicales, el vienés Cyrillus Demian (1772-1847), le robó esta idea primitiva, la desarrolló y en 1829 construyó el primer acordeón. Buschmann perfeccionó su armónica como instrumento musical en el año 1827.</historia>
+        <otrosinstrumentos>Acordeón, melódica, armonio, concertina, sheng</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Victor</nombre>
+               <apellidos>Hugo Díaz</apellidos>    
+	           <pais>Argentina</pais>
+	           <url>https://img.discogs.com/E_-aybXV5ypySnf2zqMYsKrlEZo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-982023-1421678711-4502.jpeg.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Lawrence</nombre>
+               <apellidos>Cecil Adler</apellidos>    
+	           <pais>Inglaterra</pais> <url>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Larry_Adler%2C_City_center%2C_NYC%2C_January_1947_%28Gottlieb_00031%29.jpg/800px-Larry_Adler%2C_City_center%2C_NYC%2C_January_1947_%28Gottlieb_00031%29.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--17-->
+    <instrumento id="aire" idtipo="len_L">
+        <nombreinstrumento>Acordeón</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/f/f6/Acorde%C3%B3n_a_piano_partes.jpg</urlinstrumento>
+        <historia>El invento se atribuye al emperador chino Nyu-Kwa, 3000 años antes de Cristo (el Sheng), aunque la sustitución de lengüetas de caña por metálicas es algo posterior. Basándose en la lengüeta simple, numerosos inventores elaboraron diferentes elementos. Desde el parisino Pinsonnat, que inventó el typófono, que daba una sola nota fija, hasta Eschembach, que unió varias.</historia>
+        <otrosinstrumentos>Armónica</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Eva</nombre>
+               <apellidos>Shollner</apellidos>    
+	           <pais>Alemania</pais>
+	           <url>http://www.cenart.gob.mx/wp-content/uploads/2016/05/zollner-1030x579.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Klaus</nombre>
+               <apellidos>Paier</apellidos>    
+	           <pais>Suiza</pais>
+	           <url>http://www.bluesartstudio.at/Komponenten/Klaus+Paier2116.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--18-->
+    
+    <instrumento id="aire" idtipo="Mix">
+        <nombreinstrumento>Gaita Gallega</nombreinstrumento>
+        <urlinstrumento>http://fotos0.mundofotos.net/2009/25_02_2009/suara1235516717/gaita-gallega.jpg</urlinstrumento>
+        <historia>Las primeras representaciones gráficas de la gaita son de mediados del siglo XIII. Constaban entonces de fuelle, puntero y soplete, sin roncón. Coincidiendo con el desarrollo de la polifonía, se le añadieron los bordones y en la segunda mitad del siglo XIII y en el siglo XIV aparecen las gaitas con un roncón, con dos o sin ellos.
+        En la segunda mitad del siglo XIX se añadió el ronquillo como apoyo al puntero, colocado a su lado. Bien entrado el siglo XX aparece la ronqueta, más pequeña que el segundo roncón de los siglos anteriores</historia>
+        <otrosinstrumentos>Órgano de iglesia</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Susane</nombre>
+               <apellidos>Eivane</apellidos>    
+	           <pais>España</pais>
+	           <url>https://i.ytimg.com/vi/631-b07omIU/maxresdefault.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Cristina</nombre>
+               <apellidos>Pato</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>http://www.cristinapato.com/wp-content/uploads/2014/07/slide7.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--19-->    
+    
+    <instrumento id="cuerda" idtipo="frotd">
+        <nombreinstrumento>Violín</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.png</urlinstrumento>
+        <historia>La genealogía que lleva al violín actual es más compleja. Se encuentra en el frotamiento de las cuerdas del laúd y el rebab ―y su versión europea, el rabel―, instrumentos difundidos en la Europa mediterránea durante la expansión medieval de los árabes. En Italia, a partir de la lira bizantina o el rebab, surgen los antecedentes más evidentes, tanto del violín como de la llamada viola da gamba; son tales precedentes la viola de arco (nombre que se utilizaba para todo instrumento de cuerda frotada con arco, como el rebec o rabel, y que también recibe las denominaciones de viela, vihuela, vihuela de arco, fídula y giga) y la lira o viola da braccio, esta ya muy semejante a un violín o viola primitivos, aunque con el diapasón separando los bordones.</historia>
+        <otrosinstrumentos>viola, violonchelo, contrabajo, fiddle</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Eugene</nombre>
+               <apellidos>Ysaye</apellidos>    
+	           <pais>Bélgica</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eug%C3%A8ne_Ysa%C3%BFe.jpg/220px-Eug%C3%A8ne_Ysa%C3%BFe.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Fritz</nombre>
+               <apellidos>Kreisler</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://www.biografiasyvidas.com/biografia/k/fotos/kreisler.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--20-->
+    <instrumento id="cuerda" idtipo="frotd">
+        <nombreinstrumento>Violonchelo</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/LeonBernardel-1923.jpeg/800px-LeonBernardel-1923.jpeg</urlinstrumento>
+        <historia>Al contrario de lo que se suele pensar, los precursores del violonchelo aparecieron en la primera mitad del siglo XVII en Italia no como descendientes de la viola da gamba (‘viola de pierna’), sino que pertenecen a la familia de los violines, y nacieron de la viola da braccio (‘viola de brazo’), hacia el 1530, apenas unos años después que el violín. Para la fabricación de estos nuevos instrumentos, usaron características de otros, como el rabel, aunque éste sólo tenía tres cuerdas. Está demostrado, además, que no tuvo nada que ver con la familia de las antiguas violas (como la viola da gamba, por ejemplo), ni en la construcción, ni en la técnica, ni en la interpretación.</historia>
+        <otrosinstrumentos>Violín, Viola, Viola Profonda, Contrabajo, Músicos, Violonchelistas</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Pau</nombre>
+               <apellidos>Casals</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://abidinginthevine.net/wp-content/uploads/2014/12/pablo-casals-300x300.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Gaspar</nombre>
+               <apellidos>Cassadó</apellidos>    
+	           <pais>España</pais>
+	           <url>http://www.soundfountain.org/rem/cassadoimage_350.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--21-->    
+    <instrumento id="cuerda" idtipo="frotd">
+        <nombreinstrumento>Contrabajo</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/AGK_bass1_full.jpg/800px-AGK_bass1_full.jpg</urlinstrumento>
+        <historia>Los orígenes del contrabajo se remontan al siglo XVI, época en la que ya existía un instrumento llamado violone del cual parece derivar. Sin embargo, hasta el siglo XIX no adoptó la forma y las características actuales, una combinación de elementos propios del violín y de la viola da gamba. También durante ese siglo se incorporó definitivamente a la orquesta, en la que desempeñaba un papel secundario: se limitaba a reforzar la parte del violonchelo. Las dificultades de la interpretación derivadas de su gran envergadura limitaron su salto a los escenarios. </historia>
+        <otrosinstrumentos>Violonchelo , violin, viola</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Giovanni</nombre>
+               <apellidos>Bottesini</apellidos>    
+	           <pais>Italia</pais>
+	           <url>http://www.melomanos.com/wp-content/uploads/Giovanni-Bottesini.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Dragonetti</nombre>
+               <apellidos>Domenico</apellidos>    
+	           <pais>Italia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/4/4b/Domenico_Dragonetti.JPG</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--22-->    
+    <instrumento id="cuerda" idtipo="PVP">
+        <nombreinstrumento>Guitarra</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Classical_Guitar_two_views.jpg/800px-Classical_Guitar_two_views.jpg</urlinstrumento>
+        <historia>El lutier español José Ramírez III junto al guitarrista Narciso Yepes le agregaron cuatro cuerdas más en las graves, sobre un amplio mástil cuyos múltiples trastes permiten ampliar notablemente la gama de sonidos de la mano izquierda. Narciso Yepes tocó por primera vez esta guitarra de diez cuerdas en Berlín en 1964 y, a partir de ese año, fue su instrumento habitual en los conciertos, especializándose en piezas renacentistas y barrocas.</historia>
+        <otrosinstrumentos>laúd, bandurria, guitarra eléctrica, bajo,</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Leo</nombre>
+               <apellidos>Brouwer</apellidos>    
+	           <pais>Cubano</pais>
+	           <url>http://www.guitarrapetrer.com/files/images/FotoBrouwer2.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Pepe</nombre>
+               <apellidos>Romero</apellidos>    
+	           <pais>España</pais>
+	           <url>https://lh5.googleusercontent.com/-5BKTZqlIfPA/AAAAAAAAAAI/AAAAAAAAAPU/0IDRV9uIKY4/s0-c-k-no-ns/photo.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--23-->    
+    <instrumento id="cuerda" idtipo="PVP">
+        <nombreinstrumento>laúd</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Museum_%28121282543%29.jpg/800px-Deutsches_Museum_%28121282543%29.jpg</urlinstrumento>
+        <historia>El llamado laúd español es imprescindible, al igual que la bandurria, en las formaciones populares de la música española. Las orquestas de pulso y púa y las rondallas instrumentales, compuestas por familias de instrumentos de cuerda pulsada de diferentes alturas y que también eran conocidas como estudiantinas, o en su versión universitaria como tuna. Es importante recalcar que este instrumento no tiene absolutamente nada que ver con los laúdes tradicionales.</historia>
+        <otrosinstrumentos>bandurria, laúd español, tiorba, laúd-clave.</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Nigel</nombre>
+               <apellidos>North</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESdodRL5b_7rdiDrdOvxxk-FVrhPfIjqcMAe3Hdq91P64j4sA</url>
+            </interprete>
+            <interprete>
+	           <nombre>Jackob</nombre>
+               <apellidos>Lindberg</apellidos>    
+	           <pais>Suecia</pais>
+	           <url>https://idynamo.files.wordpress.com/2016/09/john-lennon-1961-ftr.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--24-->    
+    <instrumento id="cuerda" idtipo="PVP">
+        <nombreinstrumento>Bandurria</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/3/3c/Original_bandurria.jpg</urlinstrumento>
+        <historia>La bandurria es una especie de guitarra. Una de las teorías existentes sobre la bandurria data el origen de este instrumento en torno al 400 d. C. Para éstos, la bandurria deriva de la pandura romana (que a su vez proviene del pan-tur sumerio). También lo adaptaron a su vida cotidiana la civilización babilónica, cuando entraron en contacto con los egipcios, que estos a su vez la habían heredado de los romanos. Ramón Destorrents, Baile de Salo- mé ante Herodes. Bandurria, Laúd y Danza. (Entre 1351-1362) Nicolás Francés. Retablo de la Vida de la Virgen y san Francisco.Tabla central. Bandurria, Arpa románica, Rabel, Ór- gano portatil, Laúd, Canto y notación musical. (Entre 1434-1468).</historia>
+        <otrosinstrumentos>Mandolina, guitarra, laúd</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Julián</nombre>
+               <apellidos>Núñez Olias</apellidos>    
+	           <pais>España</pais>
+	           <url>http://www.bandurriator.com/images/julian_tocando_la_bandurria.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Cuarteto</nombre>
+               <apellidos>T´ankar</apellidos>    
+	           <pais>México</pais>
+	           <url>http://elderolave.files.wordpress.com/2013/04/tankar.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--25-->    
+    <instrumento id="cuerda" idtipo="PVP">
+        <nombreinstrumento>Ukelele</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/7/7c/Ukulele1.png</urlinstrumento>
+        <historia>La afinación estándar para los ukeleles soprano, concierto y tenor es afinación en C, es decir g'c'e'a'. Algunas veces la cuerda g está afinada una octava más alta, mientras algunos prefieren la cuerda g una octava más baja. EL ukelele barítono es usualmente afinado d g b e'. Otra afinación usada para los ukeleles sopranos es la afinación en D: a' d' f#' b'. Esto dará un tono más dulce en los ukeleles más pequeños. Esta es la afinación utilizada en la música Hawaiana de principios del siglo XX. Una afinación derivada de ésta, llamada "afinación Canadiense", con una cuerda más baja (ad'f#'b') es utilizada en el sistema escolar Canadiense en ukeleles tenor y concierto.</historia>
+        <otrosinstrumentos>Cavaquinho, Charango, cuatro, timple, tiple, Guitarra</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Jake</nombre>
+               <apellidos>Shimabukuro</apellidos>    
+	           <pais>Hawaii</pais>
+	           <url>http://shorefire.com/images/uploads/gallery/JakeShimabukuro-3.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Norman</nombre>
+               <apellidos>Wall</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/2/21/Norman_Wall.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--26-->    
+    <instrumento id="cuerda" idtipo="PVP">
+        <nombreinstrumento>Arpa</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/4/4e/Harp.png</urlinstrumento>
+        <historia>Si bien existen instrumentos muy antiguos semejantes al arpa, debe tenerse en cuenta que la clasificación de Hornbostel y Sachs distingue entre las cuerdas vocales tipo arpa (con un mástil que cierra el arco) y los tipo arco (que no disponen de ese mástil). Así pues, varias de las primitivas arpas que se describen en la historia del instrumento son literalmente, arcol mundo, al igual que en distintas épocas. Pertenece al grupo de los cordófonos. Se conocía ya en la antigua Asiria, en Israel y Egipto, de donde pasó a Grecia. Utilizaron el término griego ki‧thá‧ra para traducir la palabra kin‧nóhr más o menos la mitad de las cuarenta y dos veces que aparece en el texto hebreo. La ki‧thá‧ra era un instrumento parecido a la lira (en griego lý‧ra), pero con una tabla de resonancia más llana.3</historia>
+        <otrosinstrumentos>Lira, Cítara</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Lily</nombre>
+               <apellidos>Laskine</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://img.youtube.com/vi/z8_J3UiRM_s/0.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Nicanor</nombre>
+               <apellidos>Zabaleta</apellidos>    
+	           <pais>Francia</pais>
+	           <url>http://www.españaescultura.es/export/sites/cultura/multimedia/galerias/autores/b_nicanor_zabaleta_efesptwo058861-372261.jpg_1306973099.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--27-->    
+    <instrumento id="cuerda" idtipo="Perk">
+        <nombreinstrumento>Piano</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Steinway_%26_Sons_concert_grand_piano%2C_model_D-274%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png/1024px-Steinway_%26_Sons_concert_grand_piano%2C_model_D-274%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png</urlinstrumento>
+        <historia>La invención del piano moderno se atribuye a Bartolomeo Cristofori, de Padua, perteneciente por aquel entonces a la República de Venecia (Italia), que fue contratado por el príncipe Fernando II de Médici como conservador de instrumentos. Fue un experto fabricante de clavicémbalos y fue así como pudo familiarizarse con las técnicas de fabricación de instrumentos de cuerda con teclado. Se desconoce con precisión la fecha en la que del taller de Cristofori en Florencia salió el primer piano, pero en un inventario hecho por sus mecenas, la familia Médici, se indica la existencia de un piano en el año 1700.</historia>
+        <otrosinstrumentos>Clavecín, clavicordio, dulcémele, espineta, órgano Hammond, piano electrónico pianola, piano con pedales</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Maria Teresa</nombre>
+               <apellidos>Carreño</apellidos>    
+	           <pais>Venezuela</pais>
+	           <url>http://3.bp.blogspot.com/-3tJnlCdvAr8/UqODsbzVhsI/AAAAAAAAAW0/r21SaP1VxY4/s1600/4.Teresa+Carre%C3%B1o-Irving+H%23178.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Artur</nombre>
+               <apellidos>Schnabel</apellidos>    
+	           <pais>Chekoslovakia</pais>
+	           <url>https://media1.britannica.com/eb-media/62/9462-004-7E8DE422.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--28-->    
+    <instrumento id="idea" idtipo="choque">
+        <nombreinstrumento>Castañuelas</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/a/a5/Castagnetten.jpg</urlinstrumento>
+        <historia>El guitarrista y compositor español Santiago de Murcia, de la época barroca, compuso variaciones para castañuelas en sus jácaras, que eran entreactos satíricos. Las variaciones son una técnica compositiva     en que un tema se repite con cambios a lo largo de una pieza. Además compuso fandangos para guitarra y castañuelas,3 hacia el año 1730,
+            Hacia 1798, Luigi Boccherini, compositor y violonchelista italiano establecido en España, creó una obra en la que se incluyen las castañuelas, tal como suenan nítidamente en uno de los movimientos del quinteto para ballestas interpretado originalmente por el autor ante su mecenas el infante Luis de Borbón y Farnesio, hijo de Felipe V de España.</historia>
+        <otrosinstrumentos>Claves</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Lucero</nombre>
+               <apellidos>Tena</apellidos>    
+	           <pais>España</pais>
+	           <url>http://s.libertaddigital.com/2016/01/09/lucero-tena.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Emma</nombre>
+               <apellidos>Maleras</apellidos>    
+	           <pais>España</pais>
+	           <url>http://cac.drac.com/199803/fotos/19980321.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--29-->    
+    <instrumento id="idea" idtipo="choque">
+        <nombreinstrumento>Platillos</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zildjiancrash.jpg/260px-Zildjiancrash.jpg</urlinstrumento>
+        <historia>Los platillos descienden de los crótalos, cuyo origen data de la Edad Antigua. Desde Oriente Medio, los crótalos llegaron al Imperio otomano, donde los turcos aumentaron su tamaño exponencialmente, hasta convertirse así en el instrumento que ha llegado a nuestros días. La popularidad de los platillos llegó con el Romanticismo, periodo en el que se introdujeron en la orquesta sinfónica los exóticos instrumentos propios del folclore turco. Además de los platillos, llegaron los triángulos, las panderetas y otros instrumentos</historia>
+        <otrosinstrumentos>Crótalos , látigos</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Carlos</nombre>
+               <apellidos>López Puccio</apellidos>    
+	           <pais>Argentino</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg/220px-Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Marcos</nombre>
+               <apellidos>Mundstock</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://i.ytimg.com/vi/svp86HNMaA4/maxresdefault.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--30-->    
+    <instrumento id="idea" idtipo="GP">
+        <nombreinstrumento>Triángulo</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/c/c6/Triangle_instrument.png</urlinstrumento>
+        <historia>El sonido del triángulo es agudo y de altura indefinida, lo que no significa que no genere notas determinadas. El músico puede hacer que el sonido del triángulo sea abierto o cerrado según como lo sostenga. El triángulo posee gran sonoridad, lo que permite que sea oído por encima de la orquesta. Es usado en la música cajún de Louisiana y en el forró brasileño.</historia>
+        <otrosinstrumentos>Plato, Campanilla</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Carlos</nombre>
+               <apellidos>López Puccio</apellidos>    
+	           <pais>Italia</pais>
+	           <url>https://elojocondientes.files.wordpress.com/2013/08/lopez_puccio.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Gerardo</nombre>
+               <apellidos>Masana</apellidos>    
+	           <pais>Argentino</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/8/8a/Gerardo_Masana.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--31-->    
+    <instrumento id="idea" idtipo="GP">
+        <nombreinstrumento>metalófono</nombreinstrumento>
+        <urlinstrumento>https://marmimen97.files.wordpress.com/2012/10/504.jpg</urlinstrumento>
+        <historia>Los metalófonos melódicos más antiguos proceden de Asia. En los fabricantes occidentales se pueden encontrar tres tipos de metalófono: el bajo, el alto y el soprano. El soprano suena en una octava más alta que al alto.</historia>
+        <otrosinstrumentos>Xilófono</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Rut</nombre>
+               <apellidos>Cueria</apellidos>    
+	           <pais>España</pais>
+	           <url>http://fotos00.laopiniondemurcia.es/2016/10/24/318x200/fotospropias20161019155338-1.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Nicolás</nombre>
+               <apellidos>Prieto</apellidos>    
+	           <pais>España</pais>
+	           <url>http://1.bp.blogspot.com/-LQh7OEOrgpY/UCPYZDaYw-I/AAAAAAAAFow/pNGkPZ8MHXk/s1600/Jairo01.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--32-->     
+    <instrumento id="idea" idtipo="GP">
+        <nombreinstrumento>Gong</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Villa_nieunwekamp%2C_gong_02.JPG/220px-Villa_nieunwekamp%2C_gong_02.JPG</urlinstrumento>
+        <historia>El gong puede estar afinado o no, por lo que, puede generar tanto sonidos determinados como indeterminados.
+        Es muy popular en China, de donde es originario.</historia>
+        <otrosinstrumentos>Platos</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Xai</nombre>
+               <apellidos>long chin</apellidos>    
+	           <pais>China</pais>
+	           <url>http://1.bp.blogspot.com/-8Hir78gARqA/U7cVYYSs1XI/AAAAAAAAde4/qeiHrbn_zEU/s1600/zh1c.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Chin</nombre>
+               <apellidos>la mon</apellidos>    
+	           <pais>China</pais>
+	           <url>https://i.ytimg.com/vi/evKyGhg0bCY/maxresdefault.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--33-->     
+    <instrumento id="idea" idtipo="GP">
+        <nombreinstrumento>Campanilla</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/5/50/Tribu.jpg</urlinstrumento>
+        <historia>En las colecciones de bronces de la antigüedad romana abundan los ejemplares de este instrumento que se empleó entonces para llamar a los criados de la casa para avisar en los baños que el agua estaba a punto, para sonarla en los sacrificios y para colgarla del cuello de los animales domésticos o adornar arneses de caballos. Para los dos primeros fines no fueron campanillas sino campanas de un tamaño regular, pequeñas respecto a lo que hoy se usa en casos análogos, lo que se empleó.</historia>
+        <otrosinstrumentos>Triángulo, Platillos</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Paco</nombre>
+               <apellidos>Berejano</apellidos>    
+	           <pais>España</pais>
+	           <url>http://campaners.com/fotos/foto123644.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Iglesia</nombre>
+               <apellidos>católica</apellidos>    
+	           <pais>España</pais>
+	           <url>http://www.vidanueva.es/wp-content/uploads/2013/12/tocar-campana-G-300x200.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--34-->     
+    <instrumento id="idea" idtipo="Sacu">
+        <nombreinstrumento>Sistro</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sistrum_c_350_BC_Berlin.jpg/800px-Sistrum_c_350_BC_Berlin.jpg</urlinstrumento>
+        <historia>El sistro fue un instrumento sagrado en el Antiguo Egipto. Quizás originario de la adoración a Bast, se utilizaba en las danzas y ceremonias religiosas, en particular en el culto de la diosa Hathor: la forma de U del sistro recuerda a la cara y cuernos de la vaca diosa.1 También se agitaba para evitar las inundaciones del Nilo y para asustar a distancia a Seth.2 Isis en su papel de madre y creadora se representa con un cubo que simboliza las inundaciones del Nilo en una mano y el sistro en la otra.3 La diosa Bast muy a menudo se representa con un sistro, que simboliza su papel como diosa de la danza, la alegría y la fiesta.4</historia>
+        <otrosinstrumentos>Sonajero, Cascabeles</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Mauricio</nombre>
+               <apellidos>Carrasco</apellidos>    
+	           <pais>España</pais>
+	           <url>http://2.bp.blogspot.com/_bVo2wKExMDo/TFwnMVy-AHI/AAAAAAAACIo/APmVJKROKFM/s1600/Mauricio+Carrasco.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Imperio</nombre>
+               <apellidos>Egipcio</apellidos>    
+	           <pais>Egipto</pais>
+	           <url>https://unmundodeluz.files.wordpress.com/2014/01/sistro.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--35-->     
+    <instrumento id="idea" idtipo="Sacu">
+        <nombreinstrumento>Cascabeles</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/d/d4/SleighBells.jpg</urlinstrumento>
+        <historia>En España se han encontrado pequeños cascabeles de bronce creados en la edad del bronce; en yacimientos cartagineses, ibéricos y celtibéricos, y en pueblos ya romanizados.1 Se colgaban al cuello del ganado para ahuyentar los males, por ejemplo para ahuyentar las serpientes que acechasen a los caballos o para alejar a los demonios, aunque es posible que también los llevasen las personas con el mismo propósito.1 Un remanente de esta práctica son los cencerros que todavía se colocan a las vacas en Álava.1</historia>
+        <otrosinstrumentos>Sonajero, Sistro</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Ricardo</nombre>
+               <apellidos>Freire</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://i.ytimg.com/vi/wd5KVkK7PvE/maxresdefault.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Juan</nombre>
+               <apellidos>Erasmo Mochi</apellidos>    
+	           <pais>España</pais>
+	           <url>https://i.ytimg.com/vi/YZLi38vbouA/hqdefault.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--36-->    
+    <instrumento id="idea" idtipo="Sacu">
+        <nombreinstrumento>Pandereta</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pandeiro3.JPG/800px-Pandeiro3.JPG</urlinstrumento>
+        <historia>La pandereta se originó en Mesopotamia, Medio Oriente, India, Grecia y Roma, y fue usada especialmente en contextos religiosos.
+            Se toca haciendo resbalar uno o más dedos por ella, o bien golpeándola con ellos o con toda la mano. En ocasiones se golpea con otras partes del cuerpo, como en la Fantasía de Pandereta, típica de la tuna: mientras el que maneja la pandereta baila, va tocando con ella, golpeándola con distintas partes de su cuerpo, manteniendo el ritmo de la canción, dando muestra de gran sentido del ritmo musical así como de su destreza en la ejecución.</historia>
+        <otrosinstrumentos>Maracas, Cascabeles</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Raquel</nombre>
+               <apellidos>fonseca pereira</apellidos>    
+	           <pais>Venezuela</pais>
+	           <url>http://www.capurro.de/Raquel_Fonseca1.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Kepa</nombre>
+               <apellidos>Junkera</apellidos>    
+	           <pais>España</pais>
+	           <url>http://sembrandoatomos.es/wp-content/uploads/2015/06/portada.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--37-->    
+    <instrumento id="idea" idtipo="Sacu">
+        <nombreinstrumento>Maracas</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/d/de/Sambaballen.JPG</urlinstrumento>
+        <historia>Las maracas fueron usadas desde tiempos precolombinos en América y se han desarrollado como uno de los instrumentos de percusión más importantes porque proveen ritmo en el espectro de frecuencia alto. En la actualidad, por lo general se encuentran en pares, una para cada mano. La maraca Pijao es un tarro (cilindro sin mango) fino de guadua lleno de semillas de achira.</historia>
+        <otrosinstrumentos>Campanillas, Pandereta</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Jorge</nombre>
+               <apellidos>Maronna</apellidos>    
+	           <pais>Argentina</pais>
+	           <url>http://www.videomaniaticos.com/img_personajes/Jorge_Maronna.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Carlos</nombre>
+               <apellidos>Núñez Cortés</apellidos>    
+	           <pais>España</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg/220px-Carlos_N%C3%BA%C3%B1ez_Cort%C3%A9s_2.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--38-->    
+    <instrumento id="idea" idtipo="Rasp">
+        <nombreinstrumento>matracas</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rattle%2C_Ludlow_Museum_-_DSCF2033.JPG/800px-Rattle%2C_Ludlow_Museum_-_DSCF2033.JPG</urlinstrumento>
+        <historia>La llegada de la matraca a España fue posible gracias a los árabes, ya que la palabra matraca viene del árabe "mitraqa", que significa martillo, y de "táraq", que significa golpear. La matraca se adaptó bastante bien en la Europa medieval, fue utilizada como instrumento para acompasar trabajos como la "pisa" de la uva en los grandes y medianos lagares y durante un tiempo fueron muy utilizadas en regiones como Alsacia y Alemania. La matraca es realmente un instrumento de percusión.</historia>
+        <otrosinstrumentos>Raspador de madera, Güiro</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Daniel</nombre>
+               <apellidos>Rabinovich</apellidos>    
+	           <pais>Rusia</pais>
+	           <url>https://i.ytimg.com/vi/jHCnxDFa9Nw/hqdefault.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Julio</nombre>
+               <apellidos>Carrasco</apellidos>    
+	           <pais>España</pais>
+	           <url>https://1.bp.blogspot.com/-ncnEPclseHU/VufvXud7wxI/AAAAAAAAGjc/B8_Llllh4e0Kx3DW_solzcQzKavwp2fSg/s1600/IMG_0161.JPG</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--39-->    
+   <instrumento id="idea" idtipo="Point">
+        <nombreinstrumento>Arpa de boca</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Maultrom_1a.jpg/220px-Maultrom_1a.jpg</urlinstrumento>
+        <historia>El Arpa de boca deriva, casi sin duda, de dos hechos: el instrumento posee un arco que recuerda al marco de un arpa y, como esta, debe ser tañido con los dedos, un dato curioso es que se toca con la misma boca. Recibe muchos otros nombres regionales; por ejemplo, trompa gallega. Por el sonido que hace recuerda a otro instrumento muy diferente en estructura, el birimbao.</historia>
+        <otrosinstrumentos>Caja de música</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Ángel</nombre>
+               <apellidos>Dos Santos Hernández</apellidos>    
+	           <pais>México</pais>
+	           <url>http://www.chandra.es/musica/arpaboca/imgarpab/arpalui1.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Jose Manuel</nombre>
+               <apellidos>Madeiros</apellidos>    
+	           <pais>Colombia</pais>
+	           <url>http://www.eltiempo.com/contenido/entretenimiento/musica-y-libros/IMAGEN/IMAGEN-15046781-2.png</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+    
+<!--40-->    
+   <instrumento id="idea" idtipo="Frost">
+        <nombreinstrumento>Armónica de Cristal</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/b/b5/Glassharmonica.png</urlinstrumento>
+        <historia>Es el resultado de una automatización para el tañido del juego de copas musicales llevada a cabo por Benjamin Franklin en 1762, después de ver en Cambridge (Inglaterra) un concierto de copas de vino llenas de agua tocadas por el inglés Edward Delaval (1729-1814).1 La primera ejecución en público fue ese mismo año con la interpretación de la inglesa Marianne Davies (1743 o 1744-ca. 1818), que después haría gira con su hermana pequeña, la soprano Cecilia Davies (ca. 1756-1836), </historia>
+        <otrosinstrumentos>Serrucho</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Joseph</nombre>
+               <apellidos>Schmittbauer</apellidos>    
+	           <pais>Alemán</pais>
+	           <url>https://3.bp.blogspot.com/-RPm62PEErvo/VjtuYAVh3-I/AAAAAAAAFvM/fgLjIUe2Dw4/s1600/Barber.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Étienne-Gaspard</nombre>
+               <apellidos>Robertson</apellidos>    
+	           <pais>Francia</pais>
+	           <url>https://1.bp.blogspot.com/-6Bkn0F11tDY/V0TOaOqounI/AAAAAAAA0iI/svpfpHPFKREhqgdXm1JUyM7DTQgo2PrdACKgB/s200/georges.melies.png</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--41-->    
+   <instrumento id="idea" idtipo="Sopl">
+        <nombreinstrumento>Piano Chanteur</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NeoBechstein_Fl%C3%BCgel.jpg/800px-NeoBechstein_Fl%C3%BCgel.jpg</urlinstrumento>
+        <historia>Debido a su tamaño y peso, los pianos digitales han reemplazado a la etapa muchos de los instrumentos originales electromecánicos en el uso contemporáneo. Sin embargo, en 2009, Rhodes Music Corporation comenzó a producir una nueva línea de pianos electromecánicos, conocidos como Rhodes Mark 7.</historia>
+        <otrosinstrumentos>Piano</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Myra</nombre>
+               <apellidos>Hess</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRALlOLi0qyvGPPi8gx4ZktPTttULaOq4Udq7svB3UgcBV_-X33uA</url>
+            </interprete>
+            <interprete>
+	           <nombre>Walter</nombre>
+               <apellidos>Gieseking</apellidos>    
+	           <pais>Alemania</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Walter-Gieseking.jpg/220px-Walter-Gieseking.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--42-->
+   <instrumento id="membrillo" idtipo="Pec">
+        <nombreinstrumento>Tambor</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/0/0e/Milit%C3%A4rtrumma%2C_Nordisk_familjebok.png</urlinstrumento>
+        <historia>Un tambor es un instrumento de percusión de sonido indeterminado perteneciente a la familia de los membranófonos. Consta de una caja de resonancia, que suele ser de forma cilíndrica, y una membrana llamada parche, que cubre la abertura de la caja. Algunos tipos de tambores tienen parches en ambos lados. El sonido se obtiene al golpear el instrumento en el parche con la mano o con baquetas. También se suele percutir la caja.</historia>
+        <otrosinstrumentos>Timbales, tomtom</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Fiesta</nombre>
+               <apellidos>Semana santa</apellidos>    
+	           <pais>España</pais>
+	           <url>http://fotos.lavozdigital.es/200908/los_polillas-640x640x80.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Giovani</nombre>
+               <apellidos>Hidalgo</apellidos>    
+	           <pais>Argentino</pais>
+	           <url>http://danielmartin-mallets.com/blog-percusion/wp-content/uploads/2015/08/mejor-percusionista-latino-giovanni-hidalgo.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento> 
+    
+<!--43-->    
+    <instrumento id="membrillo" idtipo="Pec">
+        <nombreinstrumento>Bongos</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bongo.jpg/800px-Bongo.jpg</urlinstrumento>
+        <historia>Su evolución ha estado muy ligada a la aparición y popularidad del son montuno cubano. A través de los conjuntos soneros llegaron a los salones de bailes y de ahí a las grandes orquestas. Con el éxito de esta música en la Cuba de 1920 que interpretan ritmos cubanos y latinoamericanos, comúnmente llamados salseros, por todo el mundo actual. En los años actuales existen muy buenos bongoseros con una gran virtualidad que han hecho de este instrumento su vida y carrera artística podemos citar a Roberto Roena de Puerto Rico o Cheo Navarro de Venezuela.</historia>
+        <otrosinstrumentos>Timbales, Tambor</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Armando</nombre>
+               <apellidos>Peraza</apellidos>    
+	           <pais>Cuba</pais>
+	           <url>https://i.ytimg.com/vi/Wu8NvsXgnEY/hqdefault.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Giovanni</nombre>
+               <apellidos>Hidalgo Martinez</apellidos>    
+	           <pais>Italiano</pais>
+	           <url>http://rec-end.gfrcdn.net/images/tn/0/270/4516/2519/900/447/2017/02/06/f281d2ef-1a06-4b25-9db7-1b159769d629.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--44-->    
+    <instrumento id="membrillo" idtipo="Frost2">
+        <nombreinstrumento>Zambomba</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zambomba-Pe%C3%B1aAmigosCa%C3%B1izo-Jerez-P1010344.JPG/800px-Zambomba-Pe%C3%B1aAmigosCa%C3%B1izo-Jerez-P1010344.JPG</urlinstrumento>
+        <historia>En la comunidad autónoma de Andalucía, en España, sobre todo en la provincia de Málaga, se denomina Zambomba a la música electrónica Techno, en sus ramas más veloces y oscuras, generalmente, los subgéneros Acid techno y Schranz. Esta connotación de la palabra tiene su origen en un colectivo (en la jerga correspondiente, grupo de Deejays), llamado AstralTech, que promocionan estos estándares musicales considerados como obsoletos por las tendencias de la música electrónica actual. Se hace referencia al término por la similitud de ambos sonidos</historia>
+        <otrosinstrumentos>Tambores de friccion</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Rocio</nombre>
+               <apellidos>Márquez</apellidos>    
+	           <pais>España</pais>
+	           <url>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSy6FfaQTOuKE5WqwDrow-CZLdwZiZperNyITTJ8VUSfSMx8sCm</url>
+            </interprete>
+            <interprete>
+	           <nombre>Tomasito</nombre>
+               <apellidos>Rodriguez</apellidos>    
+	           <pais>España</pais>
+	           <url>http://www.rtve.es/alacarta/videos/los-conciertos-de-radio-3/conciertos-radio-3-tomasito/2196087/</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--45-->    
+    <instrumento id="membrillo" idtipo="Sopl2">
+        <nombreinstrumento>Silbato</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/d/d3/Police_whistles.jpg</urlinstrumento>
+        <historia>Existen muchos tipos de silbatos, encontramos desde los pequeños silbatos de plástico o baquelita que usan los agentes de tránsito para organizar el flujo vial de las ciudades, la policía para generar señales sonoras sobre alguna incidencia y en los deportes principalmente para árbitros de fútbol. También encontramos silbatos más grandes como el de los trenes, que son silbatos de vapor diseñados específicamente para su uso en las locomotoras y barcos. Aunque los silbatos tienen una característica musical, los silbatos generalmente no se consideran como "musicales" en el sentido de no ser capaces de tocar una melodía. Sin embargo, existen algunos instrumentos como la Calíope que si es considerada instrumento musical ya que tiene la capacidad de producir una serie de silbidos, por separado de cada unos de sus silbatos, accionados por vapor, también los silbatos Pea se utilizan en el jazz y la música latina como un instrumento de percusión, los niños suelen utilizar algunos como un instrumento musical de juguete.</historia>
+        <otrosinstrumentos>kazoo, mirlitón</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Lucan</nombre>
+               <apellidos>Bramdely</apellidos>    
+	           <pais>Austria</pais>
+	           <url>https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/9f/7f/dc/9f7fdc574e5f218f9916adb9c6004e32.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Pabloti</nombre>
+               <apellidos>di Trevi</apellidos>    
+	           <pais>Italia</pais>
+	           <url>http://2.bp.blogspot.com/_9Pxc0TA5dL4/SRVR2ZUBeYI/AAAAAAAAAc0/GZae11sr6yc/s320/18839515_w434_h_q80.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--46-->    
+    <instrumento id="electric" idtipo="Trad">
+        <nombreinstrumento>Saxo midi</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Synth_rack_%40_Choking_Sun_Studio.jpg/800px-Synth_rack_%40_Choking_Sun_Studio.jpg</urlinstrumento>
+        <historia>Para finales de los setenta, los dispositivos electrónicos musicales se volvieron más comunes y menos costosos en América del Norte, Europa y Japón. Los primeros sintetizadores analógicos eran usualmente monofónicos y controlados mediante el voltaje producido por sus teclados. Los fabricantes usaron este voltaje para conectar instrumentos en conjunto y así un solo dispositivo podría controlar uno u otros más, sin embargo este sistema no era adecuado para los sintetizadores polifónicos y digitales.2 Algunos fabricantes crearon sistemas que permitían que su propio equipo fuera interconectado, pero los sistemas no eran compatibles, así que los sistemas de otros fabricantes podrían no ser sincronizados con otros.</historia>
+        <otrosinstrumentos>Piano eléctrico, Guitarra eléctrica</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Michael</nombre>
+               <apellidos>Brecker</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://img.discogs.com/Rec6HSaFvQd-Au95G2h6TNox_64=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-135847-1449319639-6297.jpeg.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Joe</nombre>
+               <apellidos>lovano</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>https://img.discogs.com/gbNackLm4zaN4BhnLoDm4Nzx0m0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-295060-1233682444.jpeg.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--47-->    
+    <instrumento id="electric" idtipo="Trad">
+        <nombreinstrumento>Guitarra electrica</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/electric_guitar_parts.jpg/320px-electric_guitar_parts.jpg</urlinstrumento>
+        <historia>La guitarra eléctrica fue inventada en Estados Unidos a mediados del siglo XX por Leo Fender, sin saberlo el crearía una gran historia con su nueva invención, consecuencia de la aparición del amplificador en el año 1935. A partir de ese momento fueron muchos los instrumentos que sufrieron alteraciones en su diseño acústico tradicional e incorporaron algún tipo de sistema eléctrico.La guitarra fue uno de los primeros en adaptarse y, a pesar de que varias marcas innovaron en esa dirección en poco tiempo, la manufactura de la primera guitarra eléctrica se le puede atribuir a la marca Rickenbacker. Los primeros músicos en adoptar este sistema para tocar fueron guitarristas de operetas y Jazz, quienes previamente no contaban con los medios para que su instrumento se escuchara dentro de las orquestas.</historia>
+        <otrosinstrumentos>Gaita midi</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Jimmy</nombre>
+               <apellidos>Hendrix</apellidos>    
+	           <pais>Estados Unidos</pais>
+	           <url>http://2.bp.blogspot.com/-GPx07_izstI/TfLVDB97RMI/AAAAAAAAARU/YMCLCr4rgIo/s200/Jimmy+Hendrix.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Eric</nombre>
+               <apellidos>Clapton</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>http://espaciomusica.com/wp-content/uploads/Eric+Clapton_3.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+    
+<!--48-->    
+    <instrumento id="electric" idtipo="Trad">
+        <nombreinstrumento>Bajo electrico</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fender_Jazz_Bass_American_Deluxe.JPG/320px-Fender_Jazz_Bass_American_Deluxe.JPG</urlinstrumento>
+        <historia>Durante los años noventa, los bajos de cinco cuerdas se fueron haciendo progresivamente más comunes y accesibles, y un número cada vez mayor de bajistas (de géneros tan dispares como el metal y el gospel) comenzaron a utilizarlos para aprovechar sus nuevas posibilidades. De modo paralelo, la circuitería activa dejó de estar reservada a los instrumentos de gama alta para ir siendo incorporada progresivamente a instrumentos de series más económicas.</historia>
+        <otrosinstrumentos>Guitarra electrica</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Jeff</nombre>
+               <apellidos>Berlin</apellidos>    
+	           <pais>México</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/3/3b/Jeff_Berlin_2007_in_Austin_TX.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Paul</nombre>
+               <apellidos>McCartney</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://lh3.googleusercontent.com/-b_cW_kuSoBY/AAAAAAAAAAI/AAAAAAAAOP8/vnVyKOAaDAA/s0-c-k-no-ns/photo.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--49-->    
+    <instrumento id="electric" idtipo="New">
+        <nombreinstrumento>Sintetizador</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/R.A.Moog_minimoog_2.jpg/800px-R.A.Moog_minimoog_2.jpg</urlinstrumento>
+        <historia>Los inicios de los sintetizadores son difíciles de rastrear, existe una confusión entre sintetizadores de sonidos e instrumento eléctrico/instrumento musical electrónico. </historia>
+        <otrosinstrumentos>Theremin</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Vladimir</nombre>
+               <apellidos>Krustov</apellidos>    
+	           <pais>Rusia</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Krutov.png/220px-Krutov.png</url>
+            </interprete>
+            <interprete>
+	           <nombre>Dimitri</nombre>
+               <apellidos>Petrenko</apellidos>    
+	           <pais>Rusia</pais>
+	           <url>https://s-media-cache-ak0.pinimg.com/originals/56/5f/12/565f12ca6968a72d159440418288e582.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+<!--50-->    
+    <instrumento id="electric" idtipo="New">
+        <nombreinstrumento>Ondas Martenot</nombreinstrumento>
+        <urlinstrumento>https://upload.wikimedia.org/wikipedia/commons/c/c6/Ondes_martenot.jpg</urlinstrumento>
+        <historia>El instrumento está formado por un teclado, un altavoz y un generador de baja frecuencia. Las ondas Martenot es un instrumento monofónico, es decir, que no produce notas simultáneas.</historia>
+        <otrosinstrumentos>Theremin</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+	           <nombre>Maurice</nombre>
+               <apellidos>Martenot</apellidos>    
+	           <pais>México</pais>
+	           <url>http://4.bp.blogspot.com/_rzpf91InWjo/TNvBPya9_sI/AAAAAAAAAJ0/e8JfCnOGOsk/s320/Maurice_Ondes_Martenot.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Arthur</nombre>
+               <apellidos>Honegger</apellidos>    
+	           <pais>Inglaterra</pais>
+	           <url>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arthur_Honegger_b_Meurisse_1928.jpg/800px-Arthur_Honegger_b_Meurisse_1928.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
+</Instrumentos>

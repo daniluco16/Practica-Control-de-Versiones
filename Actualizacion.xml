@@ -44,5 +44,26 @@
             <formaoejem idtipo="Trad">Instrumentos tradicionales</formaoejem>
             <formaoejem idtipo="New">Nueva Construcción</formaoejem>  
         </tipo>    
-    </clasificacion>
+    </clasificacion>        
+<!--1-->              
+    <instrumento id="aire" idtipo="boc">
+        <nombreinstrumento>Tuba</nombreinstrumento>
+        <urlinstrumento>http://www.el-atril.com/orquesta/Instrumentos/imagenes/tuba.jpg</urlinstrumento>
+        <historia>La tuba es el mayor de los instrumentos de viento-metal y sus antecesores son el serpentón y el oficleido. Es uno de los instrumentos más recientemente añadidos a la orquesta sinfónica moderna, aparecido en 1835 con Wilhelm Friedrich Wieprecht y Johann Gottfried Moritz, sustituyendo al oficleido del siglo XVIII.</historia>
+        <otrosinstrumentos>trompeta</otrosinstrumentos>
+        <interpretes>
+            <interprete>
+                <nombre>Wilhelm</nombre>
+                <apellidos>Friedrich Wieprecht</apellidos>
+	            <pais>Alemania</pais>
+	           <url>http://www.mz-web.de/image/view/2008/5/5/18416314,15753879,dmData,Wilhelm+Wieprecht+%25281212676436636%2529.jpg</url>
+            </interprete>
+            <interprete>
+	           <nombre>Johann</nombre>
+               <apellidos>Gottfried Moritz</apellidos>
+	           <pais>Alemania</pais>
+	           <url>http://e-ducation.datapeak.net/philosophers/herder.jpg</url>
+            </interprete>
+        </interpretes>    
+    </instrumento>
 </Instrumentos>

@@ -12,6 +12,37 @@
             <formaoejem idtipo="len_L">Lengüeta libre</formaoejem>
             <formaoejem idtipo="Mix">Mixta</formaoejem>
         </tipo>
+        <tipo id="cuerda">
+            <nombretipo>Cordófonos</nombretipo>    
+            <definicion>El sonido se produce al vibrar una cuerda tensa</definicion>
+            <formaoejem idtipo="frotd">Frotada</formaoejem>
+            <formaoejem idtipo="PVP">Pulsada o Pellizcada</formaoejem>
+            <formaoejem idtipo="Perk">Percutida con teclado</formaoejem>
+			
+        </tipo>    
+        <tipo id="idea">
+            <nombretipo>Idiófonos</nombretipo>
+            <definicion>El sonido se produce al vibrar el propio cuerpo del instrumento</definicion>
+            <formaoejem idtipo="choque">Entrechoque</formaoejem>
+            <formaoejem idtipo="GP">Golpeados o Percutidos</formaoejem>
+            <formaoejem idtipo="Sacu">Sacudidos</formaoejem>
+            <formaoejem idtipo="Rasp">Raspados</formaoejem>
+            <formaoejem idtipo="Point">Punteados</formaoejem>
+            <formaoejem idtipo="Frost">Frotados</formaoejem>
+            <formaoejem idtipo="Sopl">Soplados</formaoejem>
+        </tipo>    
+        <tipo id="membrillo">    
+            <nombretipo>Membranófonos</nombretipo>    
+            <definicion>El sonido se produce al vibrar una membrana</definicion>
+            <formaoejem idtipo="Pec">Percutidos</formaoejem>
+            <formaoejem idtipo="Frost2">Frotados</formaoejem>
+            <formaoejem idtipo="Sopl2">Soplados</formaoejem>
+        </tipo>
+        <tipo id="electric">
+            <nombretipo>Electrófonos</nombretipo>
+            <definicion>El sonido se produce por medios eléctricos</definicion>
+            <formaoejem idtipo="Trad">Instrumentos tradicionales</formaoejem>
+            <formaoejem idtipo="New">Nueva Construcción</formaoejem>  
+        </tipo>    
     </clasificacion>
 </Instrumentos>
-        

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="0.1" xml:lang="es">
+  <xs:element name="Instrumentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="clasificacion">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="tipo">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="nombretipo" type="xs:string" />
+                    <xs:element name="definición" type="xs:string" />
+                    <xs:element maxOccurs="unbounded" name="formaoejem">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="idtipo" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="id" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded" name="instrumento">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nombreinstrumento" type="xs:string" />
+              <xs:element name="urlinstrumento" type="xs:string" />
+              <xs:element name="historia" type="xs:string" />
+              <xs:element name="otrosinstrumentos" type="xs:string" />
+              <xs:element name="interpretes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="interprete">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="nombre" type="xs:string" />
+                          <xs:element name="apellidos" type="xs:string" />
+                          <xs:element name="pais" type="xs:string" />
+                          <xs:element name="url" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:string" use="required" />
+            <xs:attribute name="idtipo" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
